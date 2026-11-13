@@ -16,7 +16,7 @@
 - 🌱 Currently exploring **Advanced Software Development & AI Engineering**.
 - 🎯 Research interests: **AI-Based Signal Detection, Noise Reduction & Intelligent Signal Processing**.
 - 🤝 Looking to collaborate on **AI/ML and Signal Processing Research Projects**.
-- 📫 Reach me at: **mdramihanchyrafi@gmail.com**
+
 
 ---
 
