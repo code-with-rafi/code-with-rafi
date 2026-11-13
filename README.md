@@ -83,12 +83,6 @@
 
 ---
 
-### 📊 GitHub Statistics & Analysis
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-with-rafi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-rafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
 ### 🔥 GitHub Contribution Streak
 
@@ -96,11 +90,6 @@
   <img src="https://streak-stats.demolab.com?user=code-with-rafi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-rafi&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
 
 ---
 
