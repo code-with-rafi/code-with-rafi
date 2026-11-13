@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%"/>
+</p>
+
 # Hi 👋, I'm Rafi
 
 <h3 align="center">Full-Stack Developer | AI Research Enthusiast | MSc. EEE @ CUET</h3>
