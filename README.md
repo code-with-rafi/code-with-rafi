@@ -88,7 +88,7 @@
 ---
 ### 📊 GitHub Statistics & Analysis
 
-### 🐍 My GitHub Contributions
+#### 🐍 My GitHub Contributions
 
 <p align="center">
   <picture>
@@ -108,7 +108,7 @@
   </picture>
 </p>
 
-### 🔥 GitHub Contribution Streak
+#### 🔥 GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=code-with-rafi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
