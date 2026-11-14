@@ -54,7 +54,7 @@
 #### 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 #### ⚙️ Backend Development
