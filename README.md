@@ -102,7 +102,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=code-with-rafi&style=flat-square)
 ---
 
 <p align="center">
