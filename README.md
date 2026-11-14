@@ -88,7 +88,25 @@
 ---
 ### 📊 GitHub Statistics & Analysis
 
-<img src="https://github.com/touhidcodes/contribution-snake/raw/output/grid.svg" alt="Snake Grid" style="max-width: 100%;">
+### 🐍 My GitHub Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/code-with-rafi/code-with-rafi/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/code-with-rafi/code-with-rafi/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/code-with-rafi/code-with-rafi/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ### 🔥 GitHub Contribution Streak
 
