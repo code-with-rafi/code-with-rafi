@@ -86,7 +86,9 @@
 </p>
 
 ---
+### 🔥 GITHUB STATISTICS & ANALYSIS:
 
+<img src="https://github.com/touhidcodes/contribution-snake/raw/output/grid.svg" alt="Snake Grid" style="max-width: 100%;">
 
 ### 🔥 GitHub Contribution Streak
 
