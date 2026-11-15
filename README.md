@@ -101,8 +101,8 @@
       srcset="https://raw.githubusercontent.com/code-with-rafi/code-with-rafi/output/github-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/code-with-rafi/code-with-rafi/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
       width="100%"
     />
   </picture>
